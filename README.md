@@ -1,8 +1,8 @@
-# Youtube-Clone
-This Project is a complete UI clone of youtube with working all the feature's/Attributes which make it same as the normal youtube but it works with an API key 
-In this project we have used (React) to develope with the help of tailwind css so it can be performed smoth 
-We have use Rapid API key to import all the videos which are present in the youtube and we want to access it 
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Tailwind css: https://tailwindcss.com/
-Rapid API: https://rapidapi.com/
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
