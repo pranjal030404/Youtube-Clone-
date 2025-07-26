@@ -17,4 +17,5 @@ Currently, two official plugins are available:
 
 
 this is a youtube clone 
-and it has a unique api key 
+and it has a unique api key
+you have to buy api key 
